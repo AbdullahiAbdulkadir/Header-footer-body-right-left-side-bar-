@@ -1,0 +1,35 @@
+#header {
+    background-color: blue;
+    height: 80px;
+    width: auto;
+    text-align: center;
+}
+
+#footer {
+    background-color: red;
+    height: 190px;
+    width: auto;
+}
+
+#rightsidebar {
+    background-color: yellow;
+    height: 400px;
+    width: 100px;
+    float: right;
+}
+
+
+#leftsidebar {
+    background-color: skyblue;
+    height: 400px;
+    width: 100px;
+}
+
+#middlebody {
+    background-color: orange;
+    height: 400px;
+    width: 480px;
+    margin-left: 100px;
+    margin-bottom: -400px;
+}
+
